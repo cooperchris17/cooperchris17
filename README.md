@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cooperchris17
-- 👀 I’m interested in ... corpus linguistics, natural language processing, using YouTube for second language learning
+- 👀 I’m interested in ... corpus linguistics, natural language processing, machine learning and their application to learner corpus analysis (particularly spoken data), listening texts, and learner writing assessment
 - 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... spoken data analysis
 - 📫 How to reach me ... twitter: @coopersensei / cooper@waseda.jp
 
 <!---
